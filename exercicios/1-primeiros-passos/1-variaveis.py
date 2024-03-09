@@ -1,11 +1,18 @@
-# Convenções para nomear as variáveis:
-# - Iniciar sempre com letra minúscula;
-# - O nome pode ser composto por letras, algarismos e underlines;
-# - E não podemos usar palavras reservadas do Python, como if, for, from, etc. 
+nome = 'Lucas'
 
-# Declare variáveis do tipo string
+profissão = "Projetista"
 
-# Declare variáveis de cada tipo numérico
+objetivo = '''
+ser bom 
+ser top
+toptop
+'''
 
+idade = 28
 
-# Declare uma variável do tipo booleano
+salario = 4000.00
+
+complexo = 1+2j
+
+verdadeiro = True
+falso = False
